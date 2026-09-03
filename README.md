@@ -12,7 +12,7 @@ any pipeline.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/meshy-threejs-skill.git \
+git clone https://github.com/corevider/meshy-threejs-skill.git \
   ~/.claude/skills/threejs-3d-generator-meshy      # Codex: ~/.codex/skills/...
 export MESHY_API_KEY=msy_...                       # get one at meshy.ai
 ```
