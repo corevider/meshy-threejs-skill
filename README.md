@@ -1,5 +1,12 @@
 # Meshy 3D skill for Claude Code
 
+[![release](https://img.shields.io/github/v/release/corevider/meshy-threejs-skill?label=release&color=4fd1a5)](https://github.com/corevider/meshy-threejs-skill/releases/latest)
+[![license](https://img.shields.io/github/license/corevider/meshy-threejs-skill?color=blue)](LICENSE)
+[![python](https://img.shields.io/badge/python-3.9%2B-3776ab?logo=python&logoColor=white)](scripts/meshy_3d_asset.py)
+[![dependencies](https://img.shields.io/badge/dependencies-stdlib%20only-success)](scripts/meshy_3d_asset.py)
+[![three.js](https://img.shields.io/badge/three.js-r170-000000?logo=threedotjs&logoColor=white)](viewer/clip-viewer.html)
+[![animations](https://img.shields.io/badge/mocap%20library-678%20clips-e0a34a)](references/animations.csv)
+
 An agent skill that drives the [Meshy](https://meshy.ai) API end to end for browser games:
 text/image/multi-image to 3D, retexture, remesh, humanoid auto-rig, animation from a
 678-clip mocap library or a text prompt, plus GLB quality checks and a three.js viewer for
