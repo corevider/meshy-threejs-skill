@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+meshy-output/
+meshy-character/
+preview/
+*.glb
+*.fbx
+*.usdz
